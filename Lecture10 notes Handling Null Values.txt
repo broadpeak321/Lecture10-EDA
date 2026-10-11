@@ -18,5 +18,5 @@ e.g. salary example
 then we can't apply mean. so in that case we apply median.
 
 
-Unique values, postal address, cnic can't be filled with any above methods, because they are unique.
+Unique values, postal address, cnic can't be filled with any above methods, because they are unique..
  
