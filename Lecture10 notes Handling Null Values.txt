@@ -1,0 +1,22 @@
+Handle Null Values
+======================
+1) dropna()
+
+
+2) fillna
+
+
+Central  Tendency: take data towards center
+
+mode: most appearing value  (data is in textform)
+
+mean: when data is equally distributed
+
+
+median: where data is not normalized, outliers present, data is not equally distributed
+e.g. salary example
+then we can't apply mean. so in that case we apply median.
+
+
+Unique values, postal address, cnic can't be filled with any above methods, because they are unique.
+ 
